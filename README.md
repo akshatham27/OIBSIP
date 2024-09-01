@@ -1,4 +1,4 @@
-# Simple Banking Application in Java
+# Simple ATM interface using Java
 
 
 Overview
