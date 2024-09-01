@@ -12,7 +12,7 @@ Description:
 Acts as the main class that manages the banking system.
 Contains a static variable to track the total number of accounts created.
 Includes inner classes (acc, SavingsAccount) and a custom exception class (InvalidTransactionException).
-2. acc Class (Account)
+3. acc Class (Account)
 Description:
 
 Represents a generic bank account with attributes such as name, accno (account number), balance, history (transaction history), and acctype (account type).
